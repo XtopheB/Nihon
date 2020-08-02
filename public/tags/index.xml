@@ -1,34 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags - My Nihon Site</title>
-    <link>/XtopheB/Nihon/tags/</link>
+    <link>https://xtopheblog.netlify.app/tags/</link>
     <description>Recent content in Tags on My Nihon Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
     
-        <atom:link href="/XtopheB/Nihon/tags/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="https://xtopheblog.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    <item>
-      <title>plot</title>
-      <link>/XtopheB/Nihon/tags/plot/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/XtopheB/Nihon/tags/plot/</guid>
-      <description></description>
-    </item><item>
-      <title>R Markdown</title>
-      <link>/XtopheB/Nihon/tags/r-markdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/XtopheB/Nihon/tags/r-markdown/</guid>
-      <description></description>
-    </item><item>
-      <title>regression</title>
-      <link>/XtopheB/Nihon/tags/regression/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/XtopheB/Nihon/tags/regression/</guid>
-      <description></description>
-    </item>
+    
   </channel>
 </rss>
