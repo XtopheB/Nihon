@@ -1,0 +1,11 @@
+baseURL = "https://github.com/XtopheB/Nihon"
+title = "My Nihon Site"
+theme = "aether"
+paginate = 3
+# themesDir = "../../" 
+
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+
+[params]
+	brand = "Xtophe's Journey"
+	description = "The website's description"
