@@ -1,26 +1,31 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>http://example.org/post/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts - My Nihon Site</title>
+    <link>/XtopheB/Nihon/post/</link>
+    <description>Recent content in Posts on My Nihon Site</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://example.org/post/index.xml" rel="self" type="application/rss+xml" />
-    
+        <atom:link href="/XtopheB/Nihon/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Le SIAP</title>
+      <link>/XtopheB/Nihon/post/le-siap/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/XtopheB/Nihon/post/le-siap/</guid>
+      <description>C&amp;rsquo;est enfin arrivé, ou plutôt non, ce n&amp;rsquo;est pas arrivé&amp;hellip;
+Je suis officiellement memebre des nations Unies depuis le 8 juin mais je suis toujours à Toulouse, en attente de visa, et donc d&amp;rsquo;une baisse significative de l&amp;rsquo;acitivé de l&amp;rsquo;épidémie en cours.
+Le SIAP c&amp;rsquo;est&amp;hellip; </description>
+    </item><item>
       <title>Hello R Markdown</title>
-      <link>http://example.org/post/2015-07-23-r-rmarkdown/</link>
+      <link>/XtopheB/Nihon/post/2015-07-23-r-rmarkdown/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
-      <guid>http://example.org/post/2015-07-23-r-rmarkdown/</guid>
+      <guid>/XtopheB/Nihon/post/2015-07-23-r-rmarkdown/</guid>
       <description>R MarkdownThis is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
 You can embed an R code chunk like this:
 summary(cars)## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
-    
   </channel>
 </rss>
