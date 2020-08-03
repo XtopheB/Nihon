@@ -7,7 +7,7 @@ paginate = 3
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-	brand = "Chez Xtophe"
+	brand = "Chez Xtophe" 
 	description = "The website's description"
  # homeimg = "Path, within the 'assets' folder, of the image used for the home button at the bottom of each post - optional"
 	bgimg = "img/ignasi_pattern_s.png"
