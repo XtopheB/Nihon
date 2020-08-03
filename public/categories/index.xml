@@ -1,12 +1,34 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories - My Nihon Site</title>
+    <title>Categories - Yōkoso</title>
     <link>https://xtopheblog.netlify.app/categories/</link>
-    <description>Recent content in Categories on My Nihon Site</description>
+    <description>Recent content in Categories on Yōkoso</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://xtopheblog.netlify.app/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
+    <item>
+      <title>SIAP</title>
+      <link>https://xtopheblog.netlify.app/categories/siap/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtopheblog.netlify.app/categories/siap/</guid>
+      <description></description>
+    </item><item>
+      <title>UN</title>
+      <link>https://xtopheblog.netlify.app/categories/un/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtopheblog.netlify.app/categories/un/</guid>
+      <description></description>
+    </item><item>
+      <title>Japan</title>
+      <link>https://xtopheblog.netlify.app/categories/japan/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtopheblog.netlify.app/categories/japan/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

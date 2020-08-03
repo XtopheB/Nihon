@@ -1,11 +1,13 @@
 baseURL = "https://xtopheblog.netlify.app/"
-title = "My Nihon Site"
+title = "Yōkoso"
 theme = "aether"
 paginate = 3
-# themesDir = "../../" 
+
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-	brand = "Xtophe's Blog"
+	brand = "Chez Xtophe"
 	description = "The website's description"
+ # homeimg = "Path, within the 'assets' folder, of the image used for the home button at the bottom of each post - optional"
+	bgimg = "img/ignasi_pattern_s.png"

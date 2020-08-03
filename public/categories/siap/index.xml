@@ -1,0 +1,27 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SIAP - Yōkoso</title>
+    <link>https://xtopheblog.netlify.app/categories/siap/</link>
+    <description>Recent content in SIAP on Yōkoso</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+        <atom:link href="https://xtopheblog.netlify.app/categories/siap/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>L&#39;arbre....</title>
+      <link>https://xtopheblog.netlify.app/post/l-arbre/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtopheblog.netlify.app/post/l-arbre/</guid>
+      <description></description>
+    </item><item>
+      <title>Le SIAP</title>
+      <link>https://xtopheblog.netlify.app/post/le-siap/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtopheblog.netlify.app/post/le-siap/</guid>
+      <description>Me voici membre du SIAP, aux Nations Unies</description>
+    </item>
+  </channel>
+</rss>

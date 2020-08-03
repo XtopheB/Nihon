@@ -1,14 +1,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts - My Nihon Site</title>
+    <title>Posts - Yōkoso</title>
     <link>https://xtopheblog.netlify.app/post/</link>
-    <description>Recent content in Posts on My Nihon Site</description>
+    <description>Recent content in Posts on Yōkoso</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 16 Jun 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2020 00:00:00 +0000</lastBuildDate>
     
         <atom:link href="https://xtopheblog.netlify.app/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>L&#39;arbre....</title>
+      <link>https://xtopheblog.netlify.app/post/l-arbre/</link>
+      <pubDate>Tue, 07 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://xtopheblog.netlify.app/post/l-arbre/</guid>
+      <description></description>
+    </item><item>
       <title>Casque Blanc</title>
       <link>https://xtopheblog.netlify.app/post/casque-blanc/</link>
       <pubDate>Tue, 16 Jun 2020 00:00:00 +0000</pubDate>
@@ -22,9 +29,7 @@ A la question: mais c&amp;rsquo;est le même casque pour tous, ma collègue Pina
       <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
       
       <guid>https://xtopheblog.netlify.app/post/le-siap/</guid>
-      <description>C&amp;rsquo;est enfin arrivé, ou plutôt non, ce n&amp;rsquo;est pas arrivé&amp;hellip;
-Je suis officiellement membre des nations Unies depuis le 8 juin mais je suis toujours à Toulouse, en attente de visa, et donc d&amp;rsquo;une baisse significative de l&amp;rsquo;acitivé de l&amp;rsquo;épidémie en cours.
-Le SIAP c&amp;rsquo;est&amp;hellip;</description>
+      <description>Me voici membre du SIAP, aux Nations Unies</description>
     </item>
   </channel>
 </rss>
