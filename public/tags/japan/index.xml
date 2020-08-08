@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Japan on </title>
+    <link>/tags/japan/</link>
+    <description>Recent content in Japan on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 08 Jun 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/japan/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Casque Blanc</title>
+      <link>/casque-blanc/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/casque-blanc/</guid>
+      <description>Dans mon bureau m&amp;rsquo;attend un casque, rangé bien sagement dans une armoire. Il ne s&amp;rsquo;agit pas d&amp;rsquo;un casque bleu - bien que celui-ci soit le plus représentatif de l&amp;rsquo;action des Nations Unies - mais d&amp;rsquo;un casque blanc. Il est visiblement obligatoire et tous mes collègues en ont un. En cas de tremblement de terre, nous devons le mettre et plonger sous le bureau en attendant que cela passe.
+A la question: mais c&amp;rsquo;est le même casque pour tous, ma collègue Pinar me répond.</description>
+    </item>
+    
+    <item>
+      <title>Le SIAP</title>
+      <link>/le-siap/</link>
+      <pubDate>Mon, 08 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/le-siap/</guid>
+      <description>C&amp;rsquo;est enfin arrivé, ou plutôt non, ce n&amp;rsquo;est pas arrivé&amp;hellip;
+Je suis officiellement membre des Nations Unies depuis le 8 juin mais je suis toujours à Toulouse, en attente de visa, et donc d&amp;rsquo;une baisse significative de l’activité de l&amp;rsquo;épidémie en cours.
+Le SIAP c&amp;rsquo;est le Statisitical Institute for Asia and the Pacific une petite équipe (9-10 personnes) constituée de membres des Nations Unies dont la mission est d&amp;rsquo;aider les statisticiens des Instituts Statistiques (comme l&amp;rsquo;INSEE) des pays de l&amp;rsquo;Asie et du pacifique.</description>
+    </item>
+    
+  </channel>
+</rss>

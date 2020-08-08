@@ -1,13 +1,59 @@
 baseURL = "https://xtopheblog.netlify.app/"
-title = "Yōkoso"
-theme = "aether"
-paginate = 3
+theme = "casper-two"
+paginate = 6
 
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 
 [params]
-	brand = "Chez Xtophe" 
-	description = "The website's description"
+	title = "Chez Xtophe" 
+	subtitle =  "Un site juste pour raconter"
  # homeimg = "Path, within the 'assets' folder, of the image used for the home button at the bottom of each post - optional"
-	bgimg = "img/ignasi_pattern_s.png"
+	cover = "img/ignasi_pattern_s.png"
+	description = "Here is a description of your site."
+  metaDescription = ""
+  googleAnalytics = ""
+  customCSS = []
+  RSSLink = ""
+
+  twitterName = "Xtophe_Bontemps"
+  githubName = "XtopheB"
+
+  logo = "download.png"
+  orgName = "SIAP"
+  orgWebsite = "https://siap-elearning.org/"
+  orgDescription = "Statistical Institute for Asia and the Pacific"
+
+  author = "Xtophe"
+  authorAvatar = "img/shadok.jpg"
+  authorLocation = "Tokyo, JP"
+  authorWebsite = "https://xtopheblog.netlify.app/post/le-siap/"
+  authorDescription = "Statisticien en terre Nippone..."
+
+  pageNotFoundTitle = "404 - Page not found"
+
+  #casper or caspertwo
+  singleViewStyle = "casper"
+
+[permalinks]
+  post = "/:slug/"
+
+[[menu.main]]
+  name = "Home"
+  url = "/"
+  weight = 200
+
+[[menu.main]]
+  name = "Japan"
+  url = "/Japan/"
+  weight = 100
+
+[[menu.main]]
+  name = "R"
+  url = "/Tech/R/"
+  weight = 99
+
+[[menu.main]]
+  name = "DataViz"
+  url = "http://data.visualisation.free.fr/"
+  weight = 95
