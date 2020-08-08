@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>templates on </title>
+    <link>/tags/templates/</link>
+    <description>Recent content in templates on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/templates/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Le SIAP</title>
+      <link>/le-siap/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/le-siap/</guid>
+      <description>C&amp;rsquo;est enfin arrivé, ou plutôt non, ce n&amp;rsquo;est pas arrivé&amp;hellip;
+Je suis officiellement membre des Nations Unies depuis le 8 juin mais je suis toujours à Toulouse, en attente de visa, et donc d&amp;rsquo;une baisse significative de l’activité de l&amp;rsquo;épidémie en cours.
+Le SIAP c&amp;rsquo;est le Statisitical Institute for Asia and the Pacific une petite équipe (9-10 personnes) constituée de membres des Nations Unies dont la mission est d&amp;rsquo;aider les statisticiens des Instituts Statistiques (comme l&amp;rsquo;INSEE) des pays de l&amp;rsquo;Asie et du pacifique.</description>
+    </item>
+    
+  </channel>
+</rss>
