@@ -13,7 +13,17 @@
   </url>
   
   <url>
-    <loc>/l-arbre/</loc>
+    <loc>/tags/japan/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/japan/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/posts/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
@@ -23,42 +33,22 @@
   </url>
   
   <url>
-    <loc>/categories/siap/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/categories/un/</loc>
+    <loc>/tags/un/</loc>
+    <lastmod>2020-07-07T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/un-arbre/</loc>
     <lastmod>2020-07-07T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>/casque-blanc/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/japan/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/japan/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/categories/posts/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/</loc>
-    <lastmod>2020-06-16T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/tags/un/</loc>
     <lastmod>2020-06-16T00:00:00+00:00</lastmod>
   </url>
   
