@@ -8,7 +8,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 [params]
 	title = "Chez Xtophe" 
 	subtitle =  "Un site juste pour raconter"
- # homeimg = "Path, within the 'assets' folder, of the image used for the home button at the bottom of each post - optional"
+	
 	cover = "img/ignasi_pattern_s.png"
 	description = "Here is a description of your site."
   metaDescription = ""
@@ -19,7 +19,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   twitterName = "Xtophe_Bontemps"
   githubName = "XtopheB"
 
-  logo = "download.png"
+  logo = "yokoso.gif"
   orgName = "SIAP"
   orgWebsite = "https://siap-elearning.org/"
   orgDescription = "Statistical Institute for Asia and the Pacific"
@@ -30,7 +30,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
   authorWebsite = "https://xtopheblog.netlify.app/post/le-siap/"
   authorDescription = "Statisticien en terre Nippone..."
 
-  pageNotFoundTitle = "404 - Page not found"
+  pageNotFoundTitle = "Error de ma vieille 404: Il y a qqchose qui cloche là-dedans... "
 
   #casper or caspertwo
   singleViewStyle = "casper"

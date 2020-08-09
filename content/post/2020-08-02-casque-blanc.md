@@ -18,7 +18,6 @@ image= "img/WhiteHelmet.jpg"
 
 Dans mon bureau m'attend un casque, rangé bien sagement dans une armoire.
 
-
 Il ne s'agit pas d'un casque bleu -  bien que celui-ci soit le plus représentatif de l'action des Nations Unies - mais d'un casque blanc. Il est visiblement obligatoire et tous mes collègues en ont un.  En cas de tremblement de terre, nous devons le mettre et plonger sous le bureau en attendant que cela passe. 
 A la question:
 - Mais c'est le même casque pour tous?  Ma collègue *Pinar* me répond: 
